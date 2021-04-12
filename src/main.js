@@ -13,3 +13,6 @@ let borderUISize = game.config.height / 15;
 let borderPadding = borderUISize / 3;
 let starSpeed = 4;
 
+//reserve keyboard bindings
+let keyF, keyR, keyLEFT, keyRIGHT;
+
